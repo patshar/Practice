@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-03-26T20:10:13Z" name="Default suite" finished-at="2020-03-26T20:10:21Z" duration-ms="7477">
+  <suite started-at="2020-03-28T20:23:36Z" name="Default suite" finished-at="2020-03-28T20:23:45Z" duration-ms="8898">
     <groups>
     </groups>
-    <test started-at="2020-03-26T20:10:13Z" name="Default test" finished-at="2020-03-26T20:10:21Z" duration-ms="7477">
+    <test started-at="2020-03-28T20:23:36Z" name="Default test" finished-at="2020-03-28T20:23:45Z" duration-ms="8898">
       <class name="Git.TestCase1.App">
-        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Git.TestCase1.App@691a7f8f]" started-at="2020-03-26T20:10:13Z" name="OpenBrowser" finished-at="2020-03-26T20:10:17Z" duration-ms="3287" status="PASS">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Git.TestCase1.App@3b938003]" started-at="2020-03-28T20:23:36Z" name="OpenBrowser" finished-at="2020-03-28T20:23:39Z" duration-ms="2834" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
-        <test-method signature="OpenAUT()[pri:0, instance:Git.TestCase1.App@691a7f8f]" started-at="2020-03-26T20:10:17Z" name="OpenAUT" finished-at="2020-03-26T20:10:19Z" duration-ms="2635" status="PASS">
+        <test-method signature="OpenAUT()[pri:0, instance:Git.TestCase1.App@3b938003]" started-at="2020-03-28T20:23:39Z" name="OpenAUT" finished-at="2020-03-28T20:23:43Z" duration-ms="4858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenAUT -->
-        <test-method signature="SelectCourse()[pri:0, instance:Git.TestCase1.App@691a7f8f]" started-at="2020-03-26T20:10:19Z" name="SelectCourse" finished-at="2020-03-26T20:10:20Z" duration-ms="729" status="PASS">
+        <test-method signature="SelectCourse()[pri:0, instance:Git.TestCase1.App@3b938003]" started-at="2020-03-28T20:23:43Z" name="SelectCourse" finished-at="2020-03-28T20:23:44Z" duration-ms="573" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SelectCourse -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:Git.TestCase1.App@691a7f8f]" started-at="2020-03-26T20:10:20Z" name="aftertest" finished-at="2020-03-26T20:10:21Z" duration-ms="795" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Git.TestCase1.App@3b938003]" started-at="2020-03-28T20:23:44Z" name="aftertest" finished-at="2020-03-28T20:23:45Z" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
